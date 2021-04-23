@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/u0Egu+L2lsb4aH52B10II27iD4b7Y2mlQpNUsUgN9X/V20umprb8IsBxo1Uy2Qp8sF4q+P2UpS54gAzJwZJA==",
+  "success": true,
+  "projectFilePath": "/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0.csproj",
+  "expectedPackageFiles": [
+    "/Users/lismaroliveira/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/lismaroliveira/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/lismaroliveira/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/lismaroliveira/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/lismaroliveira/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/lismaroliveira/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

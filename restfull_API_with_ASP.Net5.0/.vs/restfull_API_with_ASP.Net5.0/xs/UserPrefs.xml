@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{61705F97-F1E9-4A57-A0D1-F27044C67251}|Default">
+  <MonoDevelop.Ide.ItemProperties.restfull__API__with__ASP.Net5.0 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
+            <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
+              <Node name="Properties" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
