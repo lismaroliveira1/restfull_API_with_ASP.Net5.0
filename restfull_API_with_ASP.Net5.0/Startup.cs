@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using restfull_API_with_ASP.Net5._0.Services.Implementations;
 
 namespace restfull_API_with_ASP.Net5._0
 {
@@ -28,6 +29,7 @@ namespace restfull_API_with_ASP.Net5._0
         {
 
             services.AddControllers();
+            services.AddScoped<IPersonService, PersonServiceImplementation>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "restfull_API_with_ASP.Net5._0", Version = "v1" });

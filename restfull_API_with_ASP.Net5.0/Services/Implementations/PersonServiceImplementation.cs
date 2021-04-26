@@ -32,8 +32,8 @@ namespace restfull_API_with_ASP.Net5._0.Services.Implementations
                 Id = IncrementAndGet(),
                 FistName = "Person Name" + i,
                 LastName = "Person Last Name" + i,
-                AddressName = "Some Address" + i,
-                Gender = "Some Name" + i
+                AddressName = "Some Address",
+                Gender = "Some Name"
             };
         }
 
@@ -45,7 +45,7 @@ namespace restfull_API_with_ASP.Net5._0.Services.Implementations
         public Person Update(Person person) {
             return person;
         }
-        void Delete(long id) { }
+        
 
         List<Person> IPersonService.FindAll()
         {
@@ -58,9 +58,9 @@ namespace restfull_API_with_ASP.Net5._0.Services.Implementations
             return persons;
         }
 
-        void IPersonService.Delete(long id)
+        public void Delete(long id)
         {
-            throw new NotImplementedException();
+                        
         }
     }
 }
