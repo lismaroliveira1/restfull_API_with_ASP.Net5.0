@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{61705F97-F1E9-4A57-A0D1-F27044C67251}|Default">
   <MonoDevelop.Ide.ItemProperties.restfull__API__with__ASP.Net5.0 PreferredExecutionTarget="/Applications/Safari.app" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Properties/launchSettings.json" Line="24" Column="31" />
@@ -9,6 +10,12 @@
       <File FileName="Startup.cs" Line="57" Column="1" />
       <File FileName="Controllers/personController.cs" Line="51" Column="18" />
       <File FileName="Program.cs" Line="16" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/launchSettings.json">
+    <Files>
+      <File FileName="Controllers/CalculatorController.cs" Line="61" Column="37" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+>>>>>>> 914f1f6c02d24df9dd4bfde8515148efb4b6379b
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,12 +23,18 @@
           <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
             <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
               <Node name="Controllers" expanded="True" />
+<<<<<<< HEAD
               <Node name="model" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True">
                 <Node name="Implementations" expanded="True" />
               </Node>
               <Node name="Program.cs" selected="True" />
+=======
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+>>>>>>> 914f1f6c02d24df9dd4bfde8515148efb4b6379b
             </Node>
           </Node>
         </State>
