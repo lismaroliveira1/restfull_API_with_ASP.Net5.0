@@ -3,14 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Services/Implementations/PersonServiceImplementation.cs">
     <Files>
       <File FileName="Properties/launchSettings.json" Line="14" Column="29" />
-      <File FileName="model/Person.cs" Line="25" Column="1" />
-      <File FileName="Services/Implementations/PersonServiceImplementation.cs" Line="20" Column="30" />
-      <File FileName="Startup.cs" Line="35" Column="1" />
-      <File FileName="Controllers/personController.cs" Line="1" Column="1" />
-      <File FileName="Program.cs" />
-      <File FileName="Controllers/CalculatorController.cs" Line="1" Column="1" />
-      <File FileName="model/Context/MySQLContext.cs" Line="14" Column="51" />
-      <File FileName="appsettings.json" Line="3" Column="102" />
+      <File FileName="Services/Implementations/PersonServiceImplementation.cs" Line="22" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
