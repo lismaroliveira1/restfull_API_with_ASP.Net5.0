@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using restfull_API_with_ASP.Net5._0.model.Context;
 using restfull_API_with_ASP.Net5._0.Services.Implementations;
 
 namespace restfull_API_with_ASP.Net5._0
@@ -29,6 +31,8 @@ namespace restfull_API_with_ASP.Net5._0
         {
 
             services.AddControllers();
+            var connection = Configuration["MySQLConnection: MYSQLConncetionsString"];
+            services.AddDbContext<MySQLContext>(options => options.UseMySql(connection));
             services.AddScoped<IPersonService, PersonServiceImplementation>();
             services.AddSwaggerGen(c =>
             {
