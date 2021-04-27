@@ -1,21 +1,28 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{61705F97-F1E9-4A57-A0D1-F27044C67251}|Default">
   <MonoDevelop.Ide.ItemProperties.restfull__API__with__ASP.Net5.0 PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
       <File FileName="Properties/launchSettings.json" Line="14" Column="29" />
       <File FileName="model/Person.cs" />
       <File FileName="Services/Implementations/IPersonService.cs" />
       <File FileName="Services/Implementations/PersonServiceImplementation.cs" />
       <File FileName="Startup.cs" />
-      <File FileName="Controllers/personController.cs" Line="65" Column="1" />
+      <File FileName="Controllers/personController.cs" Line="1" Column="1" />
       <File FileName="Program.cs" />
+      <File FileName="Controllers/CalculatorController.cs" Line="1" Column="1" />
+      <File FileName="model/Context/MySQLContext.cs" Line="14" Column="51" />
+      <File FileName="appsettings.json" Line="2" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="restfull_API_with_ASP.Net5.0" expanded="True" selected="True">
+          <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
             <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="model" expanded="True">
+                <Node name="Context" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
