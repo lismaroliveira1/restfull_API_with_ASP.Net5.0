@@ -26,3 +26,12 @@
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/obj/Debug/net5.0/ref/restfull_API_with_ASP.Net5.0.dll
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/obj/Debug/net5.0/restfull_API_with_ASP.Net5.0.pdb
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/obj/Debug/net5.0/restfull_API_with_ASP.Net5.0.genruntimeconfig.cache
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.Bcl.HashCode.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/MySqlConnector.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Pomelo.JsonObject.dll

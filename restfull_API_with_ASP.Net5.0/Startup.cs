@@ -31,7 +31,7 @@ namespace restfull_API_with_ASP.Net5._0
         {
 
             services.AddControllers();
-            var connection = Configuration["MySQLConnection: MYSQLConncetionsString"];
+            var connection = Configuration["MySQLConnection:MySQLConnectionString"];
             services.AddDbContext<MySQLContext>(options => options.UseMySql(connection));
             services.AddScoped<IPersonService, PersonServiceImplementation>();
             services.AddSwaggerGen(c =>
