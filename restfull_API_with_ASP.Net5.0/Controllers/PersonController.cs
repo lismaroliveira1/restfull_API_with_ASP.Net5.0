@@ -5,8 +5,9 @@ using restfull_API_with_ASP.Net5._0.Services.Implementations;
 
 namespace restfull_API_with_ASP.Net5._0.Controllers
 {
+    [ApiVersion("1")]
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[controller]/v{version:ApiVersion}")]
     public class PersonController : ControllerBase
     {
 

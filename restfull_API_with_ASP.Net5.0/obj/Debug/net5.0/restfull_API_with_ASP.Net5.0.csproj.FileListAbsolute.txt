@@ -35,3 +35,4 @@
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Pomelo.JsonObject.dll
+/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll

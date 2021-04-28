@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lSap3FaTzkrCkbAAHK4JmzeMCImQGk3x8uYv6g+dcSIaG5cs5Kdv1qAvVE96B98xbXZ48OvuRozXhYiR19RIEQ==",
+  "dgSpecHash": "elaisXRRdxVH93oFY6T26my73L1Ibd+OGm9Ug96jZQ6DudQPsVDTVcebFVrpusL0Tfn7c7YhIQkXdugby8FM5g==",
   "success": true,
   "projectFilePath": "/Users/lismaroliveira/Documents/Projetos/API/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0/restfull_API_with_ASP.Net5.0.csproj",
   "expectedPackageFiles": [
+    "/Users/lismaroliveira/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.0.0/microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "/Users/lismaroliveira/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/lismaroliveira/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "/Users/lismaroliveira/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
