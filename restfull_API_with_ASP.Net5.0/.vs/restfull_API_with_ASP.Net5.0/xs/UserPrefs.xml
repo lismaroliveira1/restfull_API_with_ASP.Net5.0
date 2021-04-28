@@ -1,22 +1,30 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{61705F97-F1E9-4A57-A0D1-F27044C67251}|Default">
   <MonoDevelop.Ide.ItemProperties.restfull__API__with__ASP.Net5.0 PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/IPersonService.cs">
     <Files>
       <File FileName="Properties/launchSettings.json" Line="21" Column="32" />
-      <File FileName="Services/Implementations/PersonServiceImplementation.cs" Line="48" Column="74" />
-      <File FileName="Program.cs" Line="20" Column="2" />
-      <File FileName="model/Context/MySQLContext.cs" Line="1" Column="1" />
+      <File FileName="Services/Implementations/PersonServiceImplementation.cs" Line="35" Column="10" />
+      <File FileName="Program.cs" Line="10" Column="1" />
+      <File FileName="Controllers/PersonController.cs" Line="20" Column="44" />
       <File FileName="model/Person.cs" Line="1" Column="1" />
-      <File FileName="Controllers/PersonController.cs" Line="52" Column="40" />
-      <File FileName="Services/Implementations/IPersonService.cs" Line="11" Column="16" />
-      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Business/Implementations/IPersonService.cs" Line="12" Column="30" />
+      <File FileName="Repository/Implementations/IPersonRepository.cs" Line="6" Column="24" />
+      <File FileName="Repository/Implementations/PersonRepositoryImplementation.cs" Line="27" Column="14" />
+      <File FileName="Startup.cs" Line="38" Column="79" />
+      <File FileName="Controllers/CalculatorController.cs" Line="1" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
             <Node name="restfull_API_with_ASP.Net5.0" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Business" expanded="True">
+                <Node name="IPersonService.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Implementations" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

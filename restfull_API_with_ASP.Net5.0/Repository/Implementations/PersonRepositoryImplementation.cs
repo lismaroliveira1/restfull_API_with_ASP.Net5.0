@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using restfull_API_with_ASP.Net5._0.model;
 using restfull_API_with_ASP.Net5._0.model.Context;
+using restfull_API_with_ASP.Net5._0.Repository;
 
-namespace restfull_API_with_ASP.Net5._0.Services.Implementations
+namespace restfull_API_with_ASP.Net5._0.Repositor.Implementations
 {
-    public class PersonServiceImplementation : IPersonService
+    public class PersonRepositoryImplementation : IPersonRepository
 
     {
         private MySQLContext _context;
 
 
-       public PersonServiceImplementation (MySQLContext context) {
+       public PersonRepositoryImplementation (MySQLContext context) {
 
             _context = context;
         }
@@ -29,7 +30,7 @@ namespace restfull_API_with_ASP.Net5._0.Services.Implementations
             return person;
         }
 
-        List<Person> IPersonService.FindAll()
+        public List<Person> FindAll()
         {
             return _context.Persons.ToList();
         }
@@ -54,7 +55,7 @@ namespace restfull_API_with_ASP.Net5._0.Services.Implementations
             return person;
         }
 
-        private bool Exists(long id)
+        public bool Exists(long id)
         {
             return _context.Persons.Any(p => p.Id.Equals(id));
         }

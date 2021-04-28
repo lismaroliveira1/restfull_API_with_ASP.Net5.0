@@ -13,8 +13,9 @@
 
   <ItemGroup>
     <Folder Include="model\" />
-    <Folder Include="Services\" />
-    <Folder Include="Services\Implementations\" />
+    <Folder Include="Business\" />
+    <Folder Include="Business\Implementations\" />
     <Folder Include="model\Context\" />
+    <Folder Include="Repository\" />
   </ItemGroup>
 </Project>

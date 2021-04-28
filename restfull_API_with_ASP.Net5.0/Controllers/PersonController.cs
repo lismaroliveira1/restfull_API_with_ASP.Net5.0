@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using restfull_API_with_ASP.Net5._0.model;
-using restfull_API_with_ASP.Net5._0.Services.Implementations;
+using restfull_API_with_ASP.Net5._0.Business.Implementations;
 
 namespace restfull_API_with_ASP.Net5._0.Controllers
 {
@@ -12,9 +12,9 @@ namespace restfull_API_with_ASP.Net5._0.Controllers
     {
 
         private readonly ILogger<PersonController> _logger;
-        private IPersonService _personService;
+        private IPersonBusiness _personService;
 
-        public PersonController(ILogger<PersonController> logger, IPersonService personService)
+        public PersonController(ILogger<PersonController> logger, IPersonBusiness personService)
         {
             _logger = logger;
             _personService = personService;
